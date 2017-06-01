@@ -1,6 +1,6 @@
 [core]
         autocrlf = input
-        editor = nano
+        editor = vi
 
 [color]
         status = auto
