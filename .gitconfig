@@ -11,6 +11,12 @@
 [fetch]
         prune = true
 
+[pull]
+        rebase = true
+
+[push]
+        default = simple
+
 [alias]
         addr = noaddr
         st = status
